@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Vertice<T>
 {
-    private int Cve;
+   	private int Cve;
 	private boolean Visitado;
 	private T Datos;
 	private ArrayList<Arista<DatosA>> Adyacentes;
